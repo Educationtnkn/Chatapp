@@ -1,0 +1,52 @@
+img{
+    width: 100px !important;
+    height: 35px !important;
+}
+
+
+.navbar form {
+    margin-bottom: 15px !important;
+  }
+
+  .nav-item{
+    padding-left: 15px !important;
+  }
+
+  label{
+    margin-bottom: -5px !important;
+    padding-right: 5px !important;
+  }
+
+
+  .nav-item .nav-link {
+    margin-bottom: -20px !important;
+  }
+
+  [disabled="true"]{
+    cursor:  not-allowed;
+  }
+
+
+.navbar {
+    z-index: 1001 !important;
+}
+
+// .alert.alert-with-icon , .alert{
+//   z-index: 30001 !important;
+//     }
+
+
+select.form-control, select.custom-file-control, select.form-control::placeholder, select.custom-file-control::placeholder {
+  padding: 0.28125rem 0;
+  line-height: 1.5;
+}
+
+
+div.dt-buttons > .dt-button.buttons-csv{
+  display: none !important;
+}
+
+
+.navbar-collapse {
+  margin-bottom: 0px !important;
+}
